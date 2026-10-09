@@ -240,63 +240,6 @@ Claude: [![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-t
 # 🚀 Hi there, I'm Muhammad Roshaan Khurshid
 ### IT Infrastructure & DevOps Engineer | Cloud & SRE Specialist
 
----
-
-## 🛠️ Core Technical Skills
-
-* **Cloud Platforms (AWS & Azure):** 
-  * AWS (EC2, VPC, EBS, IAM, Security Groups, S3, CloudWatch, Route 53, ELB/ALB, EKS, ECS, Lambda, RDS, SQS)
-  * Microsoft Azure (Core Services, Azure Administrator / AZ-104, AKS, Subscriptions, Resource Groups, Landing Zones, Hub-Spoke Networking, VNETs, Key Vault)
-  * GCP (Cloud IAM, VPC, Subnets, Cloud Logging, Monitoring)
-  * Cloud-Native Architecture, Hybrid Environments, Cost & Storage Optimization
-
-* **Infrastructure as Code (IaC):** 
-  * Terraform (Modular & reusable architecture, state/backends, workspaces, plan/apply, drift detection)
-  * Ansible (Playbooks, configuration management, provisioning orchestration)
-  * CloudFormation, AWS CDK, Puppet
-  * Declarative & Immutable Infrastructure
-
-* **Containers & Orchestration:** 
-  * Docker (Engine, Compose, Registry, Networking, Volumes, Image Management)
-  * Kubernetes (Amazon EKS, AKS, Clusters, Namespaces, Deployments, Services, StatefulSets, ConfigMaps, Secrets, Persistent Volumes, Helm, Ingress)
-  * Service Mesh (Istio/Linkerd), CNI Plugins (Calico/Cilium), Multi-Tier Containerized Deployments
-
-* **CI/CD & Automation:** 
-  * GitHub Actions, GitHub Enterprise Administration, GHES (Self-hosted runners, branch protection rules)
-  * Azure DevOps, Jenkins, GitLab CI, CircleCI
-  * CI/CD Pipeline Architecture, Release Management, Deployment Automation, GitOps workflows
-
-* **Scripting, Programming & APIs:** 
-  * Python (Automation, tooling, async programming, FastAPI, Pydantic)
-  * Bash, PowerShell (Az), Go, Ruby
-  * RESTful APIs, AWS SDK/CLI, OAuth 2.0 Authentication, Event Streaming
-
-* **Operating Systems:** 
-  * Linux Administration (Ubuntu, Rocky Linux, CentOS, RHEL, High-availability, Systemd, Performance tuning, Kernel patching, Log analysis)
-  * Windows Server (2012/2016/2019), LAMP Stack, WordPress Infrastructure
-
-* **Networking & Infrastructure:** 
-  * TCP/IP, DNS, DHCP, Routing, Firewalls, VPN Tunneling, Load Balancing, Reverse Proxy, Nginx, Apache
-  * Cisco Routing & Switching, VNET Peering, VPN Gateway, ExpressRoute, Private Endpoints, NSGs, Application Gateway
-  * Active Directory (OUs, GPO, ACLs), Entra ID (Azure AD), Microsoft 365 (Intune, Exchange Online, Teams, SharePoint), LDAP, Zero-Trust Networking
-
-* **Databases & Caching:** 
-  * MySQL, PostgreSQL, Redis, SQL (Complex queries, joins, updates, query optimization, stored procedures, data validation)
-  * Connection Pooling, Schema Design, Caching Strategies, Data Modeling
-
-* **Monitoring, Observability & SRE:** 
-  * Prometheus, Grafana, OpenTelemetry, Azure Monitor, Log Analytics, ELK Stack (Elasticsearch, Logstash, Kibana, OpenSearch), Datadog, AWS CloudWatch
-  * SLIs, SLOs, Error Budgets, Incident Response, Root Cause Analysis (RCA), Blameless Postmortems, On-Call Rotations, MTTR Reduction
-
-* **Security, Compliance & DevSecOps:** 
-  * Vulnerability Scanning (Trivy, Checkov, Nessus, Qualys, OpenVAS), SAST/DAST, WAF, Least-Privilege IAM, RBAC, PIM, Policy-as-Code
-  * Secrets Management (Key Vault), System Hardening, Compliance Practices
-
-* **AI & Specialized Tools:** 
-  * Claude, Google AI Suite/Studio, Kilo Code, Codex (AI-assisted development & code generation)
-  * EDA Toolchains (Synopsys, Cadence, Siemens), FlexLM/FlexNet License Management, GPU/FPGA Compute Environments, Physical Design Kits (PDKs)
-
----
 
 ## 🎖️ Tech Stack Badges
 
