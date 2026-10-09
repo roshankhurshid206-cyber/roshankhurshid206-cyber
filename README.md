@@ -57,14 +57,14 @@
 
 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨
 
-========================================================================================================================================
+===================================================================================================
 
 ![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-========================================================================================================================================
+===================================================================================================
 
 ## 🎖️ Tech Stack Badges
 
@@ -124,7 +124,7 @@
 ### 🤖 AI & Specialized Tools
 [![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
 
-========================================================================================================================================
+===================================================================================================
 
 # Hello there! 👋 I'm YourName
 
@@ -144,14 +144,14 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-========================================================================================================================================
+===================================================================================================
 
 ![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-========================================================================================================================================
+===================================================================================================
 
 
 🚀 Hi there, I'm Muhammad Roshaan Khurshid
@@ -242,7 +242,7 @@ Elastic / ELK: [![Elastic](https://img.shields.io/badge/Elastic-%23005571.svg?st
 Claude: [![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
 
 
-========================================================================================================================================
+===================================================================================================
 
 # 🚀 Hi there, I'm Muhammad Roshaan Khurshid
 ### IT Infrastructure & DevOps Engineer | Cloud & SRE Specialist
@@ -364,14 +364,14 @@ Claude: [![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-t
 [![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
 
 
-========================================================================================================================================
+===================================================================================================
 
 ![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-========================================================================================================================================
+===================================================================================================
 
 <h1 align="center">Hi, I'm Roshan 👋</h1>
 <p align="center">Cloud · DevOps · SRE · DevSecOps</p>
@@ -462,7 +462,7 @@ Claude: [![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-t
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Kilo Code](https://img.shields.io/badge/Kilo%20Code-555555?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white) ![Synopsys](https://img.shields.io/badge/Synopsys-7B2D8E?style=flat-square) ![Cadence](https://img.shields.io/badge/Cadence-FF6600?style=flat-square) ![Siemens EDA](https://img.shields.io/badge/Siemens%20EDA-009999?style=flat-square) ![FlexLM](https://img.shields.io/badge/FlexLM-555555?style=flat-square) ![FlexNet](https://img.shields.io/badge/FlexNet-555555?style=flat-square) ![GPU Compute](https://img.shields.io/badge/GPU%20Compute-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-555555?style=flat-square) ![PDKs](https://img.shields.io/badge/PDKs-555555?style=flat-square)
 
-========================================================================================================================================
+===================================================================================================
 
 <h1 align="center">Hi, I'm Roshan 👋</h1>
 <p align="center">Cloud · DevOps · SRE · DevSecOps</p>
@@ -553,12 +553,12 @@ Claude: [![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-t
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Kilo Code](https://img.shields.io/badge/Kilo%20Code-555555?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white) ![Synopsys](https://img.shields.io/badge/Synopsys-7B2D8E?style=flat-square) ![Cadence](https://img.shields.io/badge/Cadence-FF6600?style=flat-square) ![Siemens EDA](https://img.shields.io/badge/Siemens%20EDA-009999?style=flat-square) ![FlexLM](https://img.shields.io/badge/FlexLM-555555?style=flat-square) ![FlexNet](https://img.shields.io/badge/FlexNet-555555?style=flat-square) ![GPU Compute](https://img.shields.io/badge/GPU%20Compute-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-555555?style=flat-square) ![PDKs](https://img.shields.io/badge/PDKs-555555?style=flat-square)
 
-========================================================================================================================================
+===================================================================================================
 
 ![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-========================================================================================
+===================================================================================================
 
