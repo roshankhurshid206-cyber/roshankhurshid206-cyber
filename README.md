@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshaanhurshid206-cyber&show_icons=true&theme=radical" alt="Roshaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshankhurshid206-cyber&show_icons=true&theme=radical" alt="Roshaan's GitHub Stats" />
 </p>
 
 ---
