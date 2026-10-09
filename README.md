@@ -1,6 +1,4 @@
- ## Hello there👋 I'm Roshaan Khursheed
-  A passionate DevOps Engineer exploring Cloud Native technologies and automation.
-  
+===================================================================================================
 ![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -53,7 +51,6 @@
 * **LinkedIn:** [Roshaan Khurshid](https://www.linkedin.com/in/roshaan-k-93a708180)
 * **Email:** [roshankhurshid206@gmail.com](mailto:roshankhurshid206@gmail.com)
 
----
 
 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨
 
@@ -125,10 +122,6 @@
 [![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
 
 ===================================================================================================
-
-# Hello there! 👋 I'm YourName
-
-> A passionate Developer exploring new technologies and automation.
 
 ### 🚀 Skills
 
