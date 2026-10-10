@@ -8,37 +8,16 @@
 
 > **DevOps Engineer & Systems Administrator** specializing in AWS and Azure, Docker, Ansible configuration management, and automated CI/CD pipelines.
 
-![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-
-
 ### 💻 About Me
 
 * 🔭 I currently work as a **DevOps Infrastructure Manager** at c2o, architecting cloud environments and automating deployments.
 * 🛠️ Experienced in building reliable infrastructure using a CLI-first approach, multi-cloud operations (AWS & Azure), and modern DevOps tools.
 * 🎓 Pursuing a Bachelor's in Business and Information Technology (BBIT) at the Virtual University of Pakistan.
 
----
-
-
-===================================================================================================
-
 ![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
-
-===================================================================================================
-
-![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-===================================================================================================
 
 ## 🛠️ Core Technical Skills
 
@@ -128,21 +107,7 @@
 
 ===================================================================================================
 
-![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-===================================================================================================
-
-![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-
 ### 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshankhurshid206-cyber&show_icons=true&theme=radical" alt="Roshaan's GitHub Stats" />
@@ -154,3 +119,8 @@
 
 * **LinkedIn:** [Roshaan Khurshid](https://www.linkedin.com/in/roshaan-k-93a708180)
 * **Email:** [roshankhurshid206@gmail.com](mailto:roshankhurshid206@gmail.com)
+
+![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
