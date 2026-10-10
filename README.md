@@ -2,7 +2,7 @@
 
 </h1>
 
-<h1 align="center">Hi, I'm Roshan 👋</h1>
+<h1 align="center">Hi, I'm Roshaan 👋</h1>
 
 <p align="center">Cloud · DevOps · SRE · DevSecOps</p>
 
