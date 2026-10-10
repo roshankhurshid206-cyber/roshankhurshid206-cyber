@@ -12,12 +12,7 @@
 
 * 🔭 I currently work as a **DevOps Infrastructure Manager** at c2o, architecting cloud environments and automating deployments.
 * 🛠️ Experienced in building reliable infrastructure using a CLI-first approach, multi-cloud operations (AWS & Azure), and modern DevOps tools.
-* 🎓 Pursuing a Bachelor's in Business and Information Technology (BBIT) at the Virtual University of Pakistan.
-
-![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+* 🎓 Completed my Bachelor's in Business and Information Technology (BBIT) at the Virtual University of Pakistan.
 
 ## 🛠️ Core Technical Skills
 
@@ -104,8 +99,6 @@
 ### 🤖 AI & Specialized Tools
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Kilo Code](https://img.shields.io/badge/Kilo%20Code-555555?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white) ![Synopsys](https://img.shields.io/badge/Synopsys-7B2D8E?style=flat-square) ![Cadence](https://img.shields.io/badge/Cadence-FF6600?style=flat-square) ![Siemens EDA](https://img.shields.io/badge/Siemens%20EDA-009999?style=flat-square) ![FlexLM](https://img.shields.io/badge/FlexLM-555555?style=flat-square) ![FlexNet](https://img.shields.io/badge/FlexNet-555555?style=flat-square) ![GPU Compute](https://img.shields.io/badge/GPU%20Compute-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-555555?style=flat-square) ![PDKs](https://img.shields.io/badge/PDKs-555555?style=flat-square)
-
-===================================================================================================
 
 ### 📊 GitHub Stats
 
