@@ -1,14 +1,19 @@
-===================================================================================================
+<h1 align="center">  السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨
+
+</h1>
+
+<h1 align="center">Hi, I'm Roshan 👋</h1>
+
+<p align="center">Cloud · DevOps · SRE · DevSecOps</p>
+
+> **DevOps Engineer & Systems Administrator** specializing in AWS and Azure, Docker, Ansible configuration management, and automated CI/CD pipelines.
+
 ![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-===================================================================================================
 
-# Hello there! 👋 I'm Roshaan Khurshid
-
-> **DevOps Engineer & Systems Administrator** specializing in AWS and Azure, Docker, Ansible configuration management, and automated CI/CD pipelines.
 
 ### 💻 About Me
 
@@ -18,22 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshankhurshid206-cyber&show_icons=true&theme=radical" alt="Roshaan's GitHub Stats" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-* **LinkedIn:** [Roshaan Khurshid](https://www.linkedin.com/in/roshaan-k-93a708180)
-* **Email:** [roshankhurshid206@gmail.com](mailto:roshankhurshid206@gmail.com)
-
-
-السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨
 
 ===================================================================================================
 
@@ -43,7 +32,6 @@
 </p>
 
 ===================================================================================================
-===================================================================================================
 
 ![Gradient Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6e15c2ec.gif)
 <p align="center">
@@ -51,9 +39,6 @@
 </p>
 
 ===================================================================================================
-
-<h1 align="center">Hi, I'm Roshan 👋</h1>
-<p align="center">Cloud · DevOps · SRE · DevSecOps</p>
 
 ## 🛠️ Core Technical Skills
 
@@ -156,3 +141,16 @@
 </p>
 
 
+### 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshankhurshid206-cyber&show_icons=true&theme=radical" alt="Roshaan's GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+* **LinkedIn:** [Roshaan Khurshid](https://www.linkedin.com/in/roshaan-k-93a708180)
+* **Email:** [roshankhurshid206@gmail.com](mailto:roshankhurshid206@gmail.com)
