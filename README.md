@@ -126,5 +126,5 @@ Vulnerability Scanning, Least-Privilege IAM, Policy-as-Code, System Hardening, C
 
 ## 🌐 Let's Connect
 
-- LinkedIn: [Roshaan Khurshid]([https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/roshaan-k-93a708180/?isSelfProfile=true)) <!-- TODO: replace with your real LinkedIn URL -->
+- LinkedIn: [Roshaan Khurshid](https://www.linkedin.com/in/roshaan-k-93a708180/?isSelfProfile=true) <!-- TODO: replace with your real LinkedIn URL -->
 - Email: [roshankhurshid206@gmail.com](mailto:roshankhurshid224@gmail.com)
